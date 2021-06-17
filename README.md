@@ -1,8 +1,6 @@
 # [MilSci aka Milkyway](https://github.com/MilSci)
 
 Programmer and Dev for many languages, libraries, projects, etc., and Aerospace/Aeronautics enthusiast for NASA, SpaceX, Lockheed Martin, and the US Air Force.
-Intentions with working with the CIA one day as a [Specialized Skills Officer](https://www.cia.gov/careers/jobs/specialized-skills-officer/) with a focus on aerospace and computer science.
-
 ## Social Medias
 - [**Twitter**](https://twitter.com/MilkyAKAfetus)
 - **Discord** `MilSci#2003`
